@@ -1,0 +1,11 @@
+C:\Users\ramya\source\repos\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe.config
+C:\Users\ramya\source\repos\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe
+C:\Users\ramya\source\repos\OrderManagementSystem\bin\Debug\OrderManagementSystem.pdb
+C:\Users\ramya\source\repos\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe
+C:\Users\ramya\source\repos\OrderManagementSystem\obj\Debug\OrderManagementSystem.pdb
+C:\Users\ramya\source\repos\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe.config
+C:\Users\ramya\source\repos\OrderManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ramya\source\repos\OrderManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ramya\source\repos\OrderManagementSystem\obj\Debug\OrderMan.87E30453.Up2Date
